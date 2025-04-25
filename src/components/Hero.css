@@ -1,5 +1,5 @@
 .hero {
-    background-image: url('/images/1.jpg'); /* Ensure the path is correct */
+    background-image: url('/1.jpg'); /* Ensure the path is correct */
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Parallax scrolling effect */

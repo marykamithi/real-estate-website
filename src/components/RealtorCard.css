@@ -1,0 +1,11 @@
+.realtor-card {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.realtor-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}

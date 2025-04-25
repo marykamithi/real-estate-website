@@ -1,0 +1,65 @@
+.realtor-card {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}
+
+.realtor-card img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
+
+.realtor-card h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.realtor-card p {
+    margin: 5px 0;
+}
+
+.property-listing {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #fff;
+}
+
+.property-listing img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.property-listing h3 {
+    margin: 10px 0;
+    font-size: 1.25em;
+}
+
+.property-listing .price {
+    font-size: 1.2em;
+    color: #2c3e50;
+}
+
+.header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
